@@ -209,7 +209,7 @@ const Excute = async function(User, TargetUsername, Text, Sleep){
 console.log(chalk`
 {bold Instagram FFT Auto Comment, Auto Like, Auto Follow With}
 {green BC0DE.NET - NAONLAH.NET - WingKocoli}
-{bold.red Code By Ccocot | ccocot@bc0de.net}
+{bold.red Code By Ccocot | dwiramadanu}
 `);
 
 inquirer.prompt(User)
